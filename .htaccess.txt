@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "PMG"
+AuthUserFile /home/TDIW/tdiw-j3/public_html/.htpasswd
+Require valid-user
